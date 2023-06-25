@@ -30,7 +30,15 @@ With Python installed, you can install Selenium using pip. Run the following com
 ```sh
 pip install selenium
 ```
-Selenium will be installed along with its dependencies.
+> Selenium will be installed along with its dependencies.
 After completing these steps, you will have Python and Selenium installed on your MacBook. 
 You can now write and run automation tests using Selenium with Python. 
 Be sure to use a suitable development environment like PyCharm or VScode to make writing and running your tests easier.
+
+#### PS: 
+- The question 05 is in PDF format and will be delivery in the email.
+
+#### Contatos /  Contacts:
+Jéssica Luana Oliveira – [LinkedIn](https://www.linkedin.com/in/jessica-oliveira-lima) | jessicaluana2693@gmail.com
+
+[GitHub](https://github.com/Jessicaluana2693)
