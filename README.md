@@ -39,6 +39,6 @@ Be sure to use a suitable development environment like PyCharm or VScode to make
 - The question 05 is in PDF format
 
 #### Contatos /  Contacts:
-Jéssica Luana Oliveira – [LinkedIn](https://www.linkedin.com/in/jessica-oliveira-lima) | jessicaluana2693@gmail.com
+Jéssica Luana Oliveira – [LinkedIn](https://www.linkedin.com/in/jessica-oliveira-lima) | jessicaaoliveira794@gmail.com
 
 [GitHub](https://github.com/Jessicaluana2693)
