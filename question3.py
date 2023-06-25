@@ -4,6 +4,13 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+#Neste exemplo, utilizamos o navegador Chrome (webdriver.Chrome()) como o driver do Selenium. Certifique-se de ter o Selenium e o driver do Chrome instalados em seu ambiente de desenvolvimento antes de executar este código.
+
+# O teste irá abrir o Google com a consulta de pesquisa "1". Em seguida, ele localiza o logo e verifica se está visível. Depois, localiza a área de texto de pesquisa e verifica se está visível. Em seguida, insere uma nova consulta de pesquisa, 
+#verifica se a consulta está presente nos resultados e se não há um placeholder presente na área de texto de pesquisa.
+# Os resultados serão impressos no console indicando se cada etapa foi bem-sucedida ou não. Certifique-se de ajustar os seletores (por exemplo, By.ID, By.NAME, By.XPATH) de acordo com a estrutura atual da página que está sendo testada.
+
+
 # Inicializar o driver do Selenium
 driver = webdriver.Chrome()
 
