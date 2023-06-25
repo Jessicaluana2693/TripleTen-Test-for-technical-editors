@@ -36,7 +36,7 @@ You can now write and run automation tests using Selenium with Python.
 Be sure to use a suitable development environment like PyCharm or VScode to make writing and running your tests easier.
 
 #### PS: 
-- The question 05 is in PDF format and will be delivery in the email.
+- The question 05 is in PDF format
 
 #### Contatos /  Contacts:
 Jéssica Luana Oliveira – [LinkedIn](https://www.linkedin.com/in/jessica-oliveira-lima) | jessicaluana2693@gmail.com
